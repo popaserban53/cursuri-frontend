@@ -1,0 +1,41 @@
+ body {
+background: linear-gradient(to bottom right, #689F38 , cyan) center center no-repeat;
+  height: 800px;
+}
+p {
+  color: turquoise; !important;
+}
+
+.box {
+  border: solid black 3px;
+  margin: 8px;
+}
+* {
+  color: pink}
+div p a span {
+  font-style:italic
+  
+}
+[id] {
+  border: 5px solid yellow;
+  
+}
+[type="text"] {
+  border : 2px solid orange;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: yellow;
+  
+}
+a : visited {
+  color: tan;
+}
+
+a::after {
+  content : '8 martie';
+  display : block;
+  
+}

@@ -1,0 +1,17 @@
+<html>
+<head> <title> My blog </title></head> 
+<body>
+  <body background="https://images.designtrends.com/wp-content/uploads/2016/01/28101019/Cloudy-Sky-Background.jpg"> </body>
+  <p><span style=color:antiquewhite><br><em>My name is Popa Serban,</em></br><em> I'm 23 years old and I am currently partaking a course in front end web development.</em></em></p></span>
+  <p><strong><span style=color:bisque>My main hobbies are: </span></strong></p>
+  <ul style="list-style:square">
+      <li><i><span style="color:blueviolet">Sports,especially extreme sports.</span></li>
+      <li><span style="color:aqua"> Music and movies of all types.</span></li>
+      <li> <span style="color:darkgoldenrod"> And last but not least clothing and fashion in general.</span></li></i>
+  </ul>
+  <p><span style=color:ghostwhite><br>As of recent i became very interested in japanese fashion.</br>
+     japanese brands such as </span><a href="http://www.comme-des-garcons.com/">Comme des Garcons</a>,<a href="http://www.neighborhood.jp/">Neighbordhood</a>,<a href="http://www.mastermindjapan.com/index.html">Mastermind</a>,<a href="https://bape.com/index/">Bape</a>.</p>
+  <p><mark>And by the way this is me.</mark></p>
+  <p><img src="https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/26167510_1793549357330706_2427375821043152310_n.jpg?oh=177040f14268d67e495d90a8904380ef&oe=5B141609" alt="Photo of me" border="5" height="700" width="500"> </p>
+</body>
+</html>

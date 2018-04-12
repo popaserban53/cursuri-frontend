@@ -1,0 +1,53 @@
+header, footer {
+}
+
+main {
+    border: solid 1px black;
+    background: linear-gradient(to bottom right, #673AB7 , #00ACC1);
+}
+nav {
+    height: 40px;
+    text-align: center;
+    padding-top: 10px
+}
+nav a {
+    background-color: #2667A7;
+    margin: 7px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+.margin-auto {
+    margin: 0 auto;
+    width: 960px;
+}
+#upside {
+    width: 960px;
+    height: 52px;
+    border: solid 1px white;
+    box-sizing: border-box;
+    margin-bottom: 8px;
+}
+
+.contact {
+    padding: 0;
+    position: absolute;
+    right: 180px;
+    top: 60px;
+}
+.slider {
+    height: 450px;
+    background-image: url (http://p11cdn4static.sharpschool.com/UserFiles/Servers/Server_54327/Image/37890897-technology-images.png);
+    background-size: cover;
+    margin: auto;
+}
+h3 {
+    font-family: cursive;
+    font-size: 33px;
+    margin: 0px;
+    padding-right: 19px;
+    border-right: solid 1px grey;
+    float: left;
+    
+}

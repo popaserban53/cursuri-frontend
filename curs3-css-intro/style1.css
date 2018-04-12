@@ -1,0 +1,10 @@
+div p a {
+  color: red
+    ;
+}
+div > a {
+  color: green
+}
+div + p {
+  color:pink
+}
